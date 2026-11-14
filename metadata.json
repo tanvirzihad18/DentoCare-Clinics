@@ -1,0 +1,6 @@
+{
+  "name": "DentoCare Clinics",
+  "description": "Premium bilingual dental clinic website for DentoCare Clinics (عيادات دنتوكير) in Al Aarid, Riyadh, Saudi Arabia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
